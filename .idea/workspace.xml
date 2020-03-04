@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d33fccfc-672c-4301-9100-01d6c115ccb8" name="Default Changelist" comment="" />
+    <list default="true" id="d33fccfc-672c-4301-9100-01d6c115ccb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/Navigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/VerifyTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/VerifyURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyURLOfPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_Navigation/VerifyURLOfPractice.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YUyuiIWMWrV9wZKqPqL5FCjGhy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -42,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VerifyURLOfPractice">
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.FirstClass" />
+  <component name="RunManager" selected="Application.BookIt">
+    <configuration name="BookIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.BookIt" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Navigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Navigation" />
+    <configuration name="BookItLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.BookItLogin" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.VerifyTitle" />
+    <configuration name="VerifyTitleGoogleEtsy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.VerifyTitleGoogleEtsy" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="VerifyURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.VerifyURL" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.VerifyURL" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="VerifyURLOfPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.VerifyURLOfPractice" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.VerifyURLOfPractice" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day1_Navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookIt" />
+        <item itemvalue="Application.BookItLogin" />
+        <item itemvalue="Application.VerifyTitleGoogleEtsy" />
         <item itemvalue="Application.VerifyURLOfPractice" />
         <item itemvalue="Application.VerifyURL" />
-        <item itemvalue="Application.VerifyTitle" />
-        <item itemvalue="Application.Navigation" />
-        <item itemvalue="Application.FirstClass" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +143,18 @@
       <updated>1583011691733</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
