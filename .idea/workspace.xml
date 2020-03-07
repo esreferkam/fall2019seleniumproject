@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d33fccfc-672c-4301-9100-01d6c115ccb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_Locators/FindElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/BookIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/BookItLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Navigation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VerifyTitle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VerifyTitleGoogleEtsy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VerifyURL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VerifyURLOfPractice.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkTest">
-    <configuration name="Amazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.Amazon" />
+  <component name="RunManager" selected="Application.GetText">
+    <configuration name="ClickVsSubmit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.ClickVsSubmit" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day3_locator.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.LinkTest" />
+    <configuration name="GetText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetText" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day3_locator.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.Login" />
+    <configuration name="LinkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.LinkTest" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkTest" />
+        <item itemvalue="Application.GetText" />
+        <item itemvalue="Application.ClickVsSubmit" />
         <item itemvalue="Application.GetAttributeValue" />
+        <item itemvalue="Application.LinkTest" />
         <item itemvalue="Application.VerifyErrorMessage" />
-        <item itemvalue="Application.Login (1)" />
-        <item itemvalue="Application.Amazon" />
       </list>
     </recent_temporary>
   </component>
