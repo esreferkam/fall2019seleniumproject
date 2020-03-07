@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d33fccfc-672c-4301-9100-01d6c115ccb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day_4xpath/GetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day_4xpath/GetText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day_4xpath/GetText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day_4xpath/GetText.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cybertek.tests.day_4xpath" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetText">
-    <configuration name="ClickVsSubmit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.ClickVsSubmit" />
+  <component name="RunManager" selected="Application.TextMethodXPath">
+    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetAttribute" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -64,21 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAttributeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.GetAttributeValue" />
-      <module name="fall2019seleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day3_locator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetText" />
+    <configuration name="GetAttribute2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetAttribute2" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.LinkTest" />
+    <configuration name="PracticeFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.PracticeFactory" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day3_locator.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyErrorMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day3_locator.VerifyErrorMessage" />
+    <configuration name="TextMethodXPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.TextMethodXPath" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day3_locator.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.XpathPractice" />
+      <module name="fall2019seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetText" />
-        <item itemvalue="Application.ClickVsSubmit" />
-        <item itemvalue="Application.GetAttributeValue" />
-        <item itemvalue="Application.LinkTest" />
-        <item itemvalue="Application.VerifyErrorMessage" />
+        <item itemvalue="Application.TextMethodXPath" />
+        <item itemvalue="Application.XpathPractice" />
+        <item itemvalue="Application.PracticeFactory" />
+        <item itemvalue="Application.GetAttribute2" />
+        <item itemvalue="Application.GetAttribute" />
       </list>
     </recent_temporary>
   </component>

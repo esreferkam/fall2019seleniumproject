@@ -24,6 +24,7 @@ public class GetText {
         }else{
             System.out.println("FAIL");
         }
+
         driver.close();
 
 
