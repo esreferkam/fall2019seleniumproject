@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d33fccfc-672c-4301-9100-01d6c115ccb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day_4xpath/GetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day_4xpath/GetText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day_4xpath/GetText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day_4xpath/GetText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +56,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TextMethodXPath">
-    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetAttribute" />
+  <component name="RunManager" selected="Application.ClassName">
+    <configuration name="ClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day5_more_xpath.ClassName" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day5_more_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAttribute2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day_4xpath.GetAttribute2" />
+    <configuration name="FreeStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.practice.FreeStyle" />
       <module name="fall2019seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day_4xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassName" />
+        <item itemvalue="Application.FreeStyle" />
         <item itemvalue="Application.TextMethodXPath" />
         <item itemvalue="Application.XpathPractice" />
         <item itemvalue="Application.PracticeFactory" />
-        <item itemvalue="Application.GetAttribute2" />
-        <item itemvalue="Application.GetAttribute" />
       </list>
     </recent_temporary>
   </component>
