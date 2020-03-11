@@ -24,9 +24,10 @@ public class XpathDemo {
         WebElement buttonFour = driver.findElement(By.xpath("//div/button/[4]"));
 
         System.out.println(buttonFour.getText());
-
+        //element.getAttribute("value") -- method to get text form element, used with innerHTML
         WebElement buttonFive = driver.findElement(By.xpath("//button[.='Button 5']"));
         // get text of the element
         WebElement buttonSix = driver.findElement(By.xpath("innerHTML"));
+        //if none of them works use outerHTML
     }
 }
